@@ -1,4 +1,4 @@
-# Learn how to create repository on GIT and key with TortoiseGIT
+# Learn how to setup a project on GitHub synchronized with your PC.
 
 This will help you build the project on github.com, and share your project with other developers.
 
